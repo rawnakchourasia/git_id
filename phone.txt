@@ -1,0 +1,6 @@
+phone
+
+add touchscreen
+
+add gorilla-glass
+
